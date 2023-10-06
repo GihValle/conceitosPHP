@@ -25,5 +25,10 @@
         <li>WHILE conceitos: <a href="while_conceito.php">Ver Mais</a></li>
     </ul>
 
+    <h2>Exemplos</h2>
+    <ul>
+        <li>Calculadora: <a href="calculadora.html">Ver Mais</a></li>
+    </ul>
+
 </body>
 </html>
